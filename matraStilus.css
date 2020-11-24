@@ -1,0 +1,74 @@
+.tartalom{
+    font-size: xx-large;
+    /*font-weight: 150px;*/
+    text-align: center;
+    color: darkgreen;
+}
+
+.jellemzok{
+    font-size: xx-large;
+    margin-left: 150px;
+    margin-right: 120px;
+    color: darkgreen;
+}
+
+.adatok{
+    font-size: x-large;
+    margin-left: 150px;
+    margin-right: 120px;
+    color: darkgreen;
+}
+
+.leirasCim{
+    font-size: x-large;
+    margin-left: 150px;
+    margin-right: 120px;
+    color: darkgreen;
+}
+
+.leiras{
+    text-align: center;
+    font-size: x-large;
+    color: darkgreen;
+    text-indent: 10%;
+}
+.kepek{
+    text-align: center;
+    align-self: center;
+    padding: 2%;
+}
+.ejszaka{
+    text-align: left;
+    font-size: x-large;
+    color: darkgreen;
+    text-indent: 10%;
+}
+.szoveg1{
+    text-align: left;
+    font-size: x-large;
+    color: darkgreen;
+    text-indent: 6.7%;
+}
+
+.tablazat, td, th{
+    color: darkgreen;
+    text-align: center;
+    border: 2.5px solid darkgreen;
+    width:50%; 
+    margin-left:25%; 
+    margin-right:15%;
+}
+.tablaLent{
+    border: 2.5px;
+    text-align: left;
+    font-size: x-large;
+    color: darkgreen;
+    text-indent: 6.7%;
+}
+.kirandulas{
+    color: darkgreen;
+    text-align: left;
+    font-size: 20px;
+    padding: 2%;
+    padding-left: 10%;
+}
